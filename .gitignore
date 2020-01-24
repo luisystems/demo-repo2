@@ -1,1 +1,5 @@
-ide-config
+# Se esta indicando que se no se lleve el control de los archivos que inician con ide-config y todo lo demas.
+#ide-config*
+
+# Se esta ignorando todo lo que esta dentro de la carpeta config
+/config/
